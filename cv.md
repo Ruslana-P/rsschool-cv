@@ -3,7 +3,7 @@
 ![Avatar](avatar.jpg)
 
 ## Contact Information
-Phone: (+40) 764017863
+Phone: (+40) 764017863 
 Email address: pavliuk_r_v@protonmail.com
 LinkedIn : <https://www.linkedin.com/in/ruslana-pavliuk/>
 GitHub: : <https://github.com/Ruslana-P>
